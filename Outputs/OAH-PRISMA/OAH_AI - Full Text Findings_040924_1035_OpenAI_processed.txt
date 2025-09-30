@@ -1,0 +1,133 @@
+*****
+1PMID 38886008
+*****
+LLM: OpenAI	Token count: 1542	Processing time: 89.34360766410828
+
+Domain: TBD
+ODH Score: The paper focuses on the impact of different stormwater management practices on water quality, particularly phosphorus levels. While it touches on environmental aspects, it doesn't directly address the broader digital health concepts like citizen engagement, education, or healthcare industry transformation. 
+
+Therefore, the paper's relevance to One Digital Health is limited. 
+
+<<3>> 
+
+OAH Score: This paper focuses on the impact of urban stormwater BMPs on phosphorus concentrations in runoff. It investigates how different BMP types, climate conditions, and watershed characteristics influence phosphorus reduction or enrichment. This research directly relates to the OneAquaHealth project's goal of improving the sustainability and integrity of freshwater ecosystems in urban environments. 
+
+The paper's findings on phosphorus dynamics in urban stormwater runoff are highly relevant to understanding the health of urban aquatic ecosystems. This knowledge can be used to inform the design and implementation of effective stormwater management practices that minimize phosphorus pollution and protect the health of urban waterways. 
+
+<<9>> 
+
+paper_aim:	The aim of the paper is to compare the phosphorus control performance of traditional stormwater best management practices (BMPs) and low-impact development (LID) systems, analyzing their effectiveness in reducing or enriching total phosphorus (TP) and soluble reactive phosphorus (SRP) in urban runoff. It also seeks to inform adaptive design and maintenance guidelines for these practices to enhance pollutant abatement and protect freshwater ecosystems. Additionally, the paper evaluates bioretention systems, focusing on their design, performance, and challenges in urban environments.
+OAH_indicators:	The paper discusses indicators related to stormwater management and nutrient concentrations, specifically focusing on phosphorus (P) levels in stormwater runoff. Key indicators mentioned include:
+
+1. **SRP Concentration**: Measured through the analysis of stormwater runoff to determine the concentration of soluble reactive phosphorus.
+2. **Total Phosphorus (TP) Concentration**: Assessed similarly to SRP, focusing on the overall phosphorus levels in stormwater.
+3. **Watershed Imperviousness**: Evaluated as a variable influencing phosphorus reduction and enrichment, indicating the extent of impervious surfaces in a watershed.
+4. **BMP Age**: Considered as an explanatory variable, although the results did not yield a consistent trend due to the limited age range of BMPs analyzed.
+
+These indicators were measured using data from the International Stormwater BMP Database and through various statistical analyses to understand their relationships and impacts on stormwater quality.
+geolocation:	The paper focuses on the United States, which is located in North America.
+methodology:	The methodology involved using machine learning models to predict total phosphorus (TP) and soluble reactive phosphorus (SRP) concentration reduction or enrichment factors for various best management practices (BMPs). Predictor variables were identified and data were collected from multiple events. The models were trained using 80% of the data, with 20% reserved for validation, and three separate 10-fold cross-validations were conducted to assess model accuracy using the Nash-Sutcliffe efficiency metric. Additionally, partial dependence analyses were performed for numerical predictors to evaluate their influence on model prediction accuracy. Categorical predictors were excluded from these analyses. The study compared traditional BMPs and low-impact development (LID) practices, analyzing their effects on SRP and TP concentrations over time.
+key_findings:	The key findings in the paper include:
+
+1. Low-impact development (LID) systems generally lead to higher concentrations of total phosphorus (TP) and soluble reactive phosphorus (SRP) in stormwater outflow compared to traditional best management practices (BMPs).
+2. Traditional BMPs are more effective at reducing SRP concentrations, with a significant percentage of them achieving this, while LIDs often result in SRP enrichment.
+3. LIDs are more efficient at reducing surface flow but do not perform better overall in reducing phosphorus loads.
+4. The effectiveness of BMPs varies based on design characteristics, maintenance practices, and environmental factors such as climate and watershed characteristics.
+5. Internal loading mechanisms can affect both LIDs and traditional BMPs, where SRP is recycled from sediments back into the water column.
+6. Machine learning models have been utilized to analyze the performance of BMPs, revealing that multiple variables interact to determine phosphorus reduction or enrichment outcomes.
+7. The shift towards LIDs may inadvertently increase the risk of eutrophication in receiving water bodies due to higher phosphorus export, particularly in drier regions with more impervious surfaces.
+8. Recommendations for LID implementation include using low-P filter media and maintaining LIDs through practices like vegetation trimming and filter medium replacement.
+9. Bioretention systems are effective in removing nutrients, with performance influenced by soil media, plant species, and environmental conditions.
+10. Seasonal variations and climate factors significantly impact the performance of bioretention systems, especially in cold climates affected by road salt application.
+11. Maintenance is crucial for sustaining the pollutant removal efficiency of bioretention cells, highlighting the need for regular assessments.
+12. There are gaps in current research regarding the long-term performance and optimization of bioretention systems, indicating a need for further studies.
+population:	The studied population consists of 2990 total events related to total phosphorus (TP) and 1729 events related to soluble reactive phosphorus (SRP), representing 251 individual BMP (Best Management Practice) locations for TP and 144 for SRP. The characteristics of the BMPs include their surface area, drainage area ratio, and the age of the BMP systems at the time each event occurred. Additionally, the study collected data on watershed characteristics such as imperviousness, land use, and average climatic conditions, including average annual precipitation depth and temperature.
+relations:	The key findings of the paper reveal a complex interplay between various indicators related to stormwater management and phosphorus dynamics. Traditional Best Management Practices (BMPs) are generally more effective at reducing soluble reactive phosphorus (SRP) concentrations compared to Low-Impact Developments (LIDs), which tend to enrich SRP levels. This enrichment is influenced by factors such as watershed characteristics, including imperviousness and climate conditions, with drier regions showing higher SRP concentrations.
+
+The design and maintenance of BMPs significantly impact their phosphorus control performance. For instance, the choice of soil media and plant species in bioretention systems can enhance phosphorus retention and pollutant removal efficiency. Additionally, the occurrence of internal loading, where phosphorus is recycled from sediments, can affect both BMP types under certain conditions.
+
+Machine learning models indicate that BMP characteristics are the most significant predictors of SRP concentration changes, highlighting the importance of adaptive design and maintenance strategies. The findings also suggest that increased salinity from road salt application can negatively influence phosphorus retention in bioretention systems, particularly in colder climates.
+
+Overall, the interactions between BMP design, watershed conditions, climatic factors, and maintenance practices are crucial for optimizing phosphorus management in urban stormwater runoff, emphasizing the need for integrated approaches to mitigate eutrophication risks in freshwater ecosystems.
+ODH_keys:	The keys addressed in this paper are **One Health** and **digital health**.
+ODH_perspectives:	The perspectives addressed in this paper are **individual health and well-being**, **population and society**, and **ecosystem**.
+ODH_dimensions:	The dimensions addressed in this paper are **citizens' engagement**, **education**, **environment**, **human and veterinary health care**, and **Healthcare Industry 4.0**.
+
+*****
+2PMID 38171204
+*****
+LLM: OpenAI	Token count: 1243	Processing time: 71.83761096000671
+
+Domain: TBD
+ODH Score: This paper focuses on the spread of antibiotic resistance genes in river systems, highlighting the impact of human activities like urbanization and agriculture. While it touches upon the interconnectedness of human, animal, and environmental health, it doesn't directly address the digital transformation of health ecosystems or the use of digital technologies to manage health and environmental issues. Therefore, the relevance to One Digital Health is limited. 
+
+<<3>> 
+
+OAH Score: This paper directly addresses the impact of urbanization on antibiotic resistance genes (ARGs) in river systems, a key concern for OneAquaHealth. The research investigates the interplay between human activities and river system resilience, specifically focusing on the dynamics of ARGs in different river segments. This aligns with OneAquaHealth's goal of understanding the interconnection of ecosystem health and human wellbeing. The paper's findings highlight the importance of monitoring and managing ARGs in urban environments, which is directly relevant to OneAquaHealth's aim of improving the sustainability and integrity of freshwater ecosystems in cities. 
+
+<<9>> 
+
+paper_aim:	The aim of the paper is to explore the dynamics of antibiotic resistance genes (ARGs) and microbial communities in river systems, particularly focusing on how anthropogenic activities and natural processes influence their distribution in water and sediment samples. It also seeks to identify critical factors shaping the resistome, analyze environmental influences, and highlight the impact of urbanization on the abundance of ARGs, while providing insights into transmission mechanisms and the need for targeted interventions to maintain watershed health.
+OAH_indicators:	The paper discusses ecological indicators related to antibiotic resistance genes (ARGs) in river systems, focusing on the prevalence and diversity of these genes in both sediment and water environments. It highlights the impact of anthropogenic activities on the distribution of ARGs, suggesting that urbanization and agricultural practices significantly influence their abundance. 
+
+While specific measurement methods for these indicators are not detailed in the provided text, the study employed a targeted sampling approach across different river segments, accounting for human impacts and natural environmental variations. This approach likely involved collecting water and sediment samples to assess the presence and concentration of ARGs, as well as analyzing the overall resistome dynamics in relation to human activities and natural processes.
+geolocation:	The paper focuses on the North River and West River, which are located in North America.
+methodology:	The methodology/design used in the paper is not explicitly detailed in the provided context. Therefore, specific information regarding the methodology or design cannot be determined from the available text.
+key_findings:	The key findings in the paper include:
+
+1. Urbanization significantly increases the abundance of antibiotic resistance genes (ARGs) in sediment, while downstream water samples show a decrease in core ARGs.
+2. Areas disturbed by human activities are at a higher risk for the spread of ARGs.
+3. Distinct geographic clustering of resistome and microbiome profiles is observed in areas with strong human disturbances, reservoir areas, and estuary regions.
+4. Co-occurrence networks reveal that mobile genetic elements (MGEs) are more interconnected in disturbed areas, posing a threat to densely populated regions.
+5. Water quality parameters and antibiotic concentrations are critical factors influencing ARG profiles in urban sediment samples.
+6. A total of 204 unique genes (194 ARGs and 10 MGEs) were detected in surface water, and 214 genes (204 ARGs and 10 MGEs) in sediments, indicating diverse antibiotic resistance across sampling sites.
+7. The relative abundance of ARGs and MGEs varied significantly between upstream and downstream locations, with upstream sites generally showing higher levels.
+8. Sediment samples exhibited higher bacterial diversity compared to water samples, with predominant bacterial phyla including Proteobacteria, Actinobacteriota, and Bacteroidota.
+9. Ninety potential bacterial pathogenic species were identified, with higher relative abundances in upstream water samples compared to downstream.
+10. Environmental factors significantly impact the diversity and abundance of ARGs, MGEs, and potential pathogens in aquatic ecosystems.
+11. The study emphasizes the need for region-specific interventions and surveillance to effectively manage ARG distribution in river systems.
+population:	The studied population includes sediment organisms and water samples from the Jiulong River, which is influenced by human activities and natural processes. Specific characteristics such as the number of species, age, or detailed population metrics are not provided in the context. The focus is on assessing the prevalence and diversity of antibiotic resistance genes (ARGs) in these environments rather than on the specific characteristics of the organisms themselves.
+relations:	The key findings of the paper illustrate a complex relationship between antibiotic resistance genes (ARGs), mobile genetic elements (MGEs), environmental factors, and human activities. Urbanization is linked to increased abundance of ARGs in sediment, while upstream water samples show higher relative abundance of core ARGs compared to downstream samples. This suggests that human disturbance, particularly in urban areas, enhances the presence of these genes.
+
+Spatial variability is evident, with upstream regions generally exhibiting higher levels of ARGs and potential pathogens, indicating that anthropogenic influences may reduce genetic diversity downstream. Environmental parameters such as temperature, pH, and concentrations of antibiotics and heavy metals significantly shape the profiles of ARGs and MGEs, affecting microbial community composition.
+
+The presence of contaminants, including pharmaceuticals, correlates with higher levels of ARGs, highlighting the role of human activities in facilitating the spread of antibiotic resistance. Additionally, disturbed areas demonstrate a more intricate network of co-occurring ARGs and MGEs, increasing the potential for horizontal gene transfer.
+
+Overall, the findings emphasize the interplay between human influences and natural processes in determining the distribution and dynamics of antibiotic resistance in aquatic ecosystems, underscoring the need for targeted management strategies.
+ODH_keys:	The keys addressed in this paper are **One Health** and **digital health**.
+ODH_perspectives:	The perspectives addressed in this paper are **individual health and well-being**, **population and society**, and **ecosystem**.
+ODH_dimensions:	The dimensions addressed in this paper are **environment**, **human and veterinary health care**, and **citizens' engagement**.
+
+*****
+3PMID 37778549
+*****
+LLM: OpenAI	Token count: 1090	Processing time: 54.63296818733215
+
+Domain: TBD
+ODH Score: The paper focuses on the impact of environmental changes on the biodiversity of a lake ecosystem. While it mentions the importance of understanding how ecosystems respond to disturbances, it doesn't directly address the digital transformation of healthcare systems or the integration of human, animal, and environmental health. 
+
+Therefore, the paper's relevance to One Digital Health is limited. 
+
+<<2>> 
+
+OAH Score: The paper focuses on the impact of human disturbance on biodiversity and ecosystem collapse in a specific lake in China. It examines the changes in diatom and chironomid communities over time, highlighting the effects of nutrient loading and algal blooms. While the paper doesn't directly address urban aquatic ecosystems, it provides valuable insights into the consequences of human activities on freshwater ecosystems, which are relevant to OneAquaHealth's goals. 
+
+The paper's analysis of biodiversity loss and ecosystem shifts due to human disturbance aligns with OneAquaHealth's focus on identifying early warning indicators and enhancing environmental monitoring. The study's findings on the impact of nutrient loading and algal blooms on freshwater ecosystems are particularly relevant to OneAquaHealth's aim to improve the sustainability and integrity of urban freshwater ecosystems. 
+
+<<7>> 
+
+paper_aim:	The aim of the paper is to investigate the impacts of human activities and environmental changes on the biodiversity and structure of diatom and chironomid communities in Erhai Lake over the past century. It focuses on understanding how these assemblages have shifted in response to factors such as nutrient availability, eutrophication, and other external pressures, and the implications of these changes for ecosystem stability and resilience.
+OAH_indicators:	The indicators mentioned in the paper include ecological indicators such as species diversity and water quality, as well as chemical indicators like pollutant levels. These indicators are typically measured through various methods, including biological assessments of species presence and abundance, physical measurements of water parameters, and chemical analyses of water samples to determine pollutant concentrations. Human health indicators referenced include mortality rates, life expectancy, disease prevalence, and quality of life measures, which are assessed through demographic studies, health surveys, and statistical analyses of health data.
+geolocation:	The paper focuses on northern Patagonia, which is located in South America.
+methodology:	The methodology involved quantifying compositional changes of two trophic levels, specifically algae (diatoms) and zoobenthos (chironomids), from Erhai Lake. This was achieved using diversity indices and network skewness to analyze empirical chironomid and diatom records spanning the last century. The study aimed to assess whether the loss of biodiversity and heterogeneity is common across different trophic levels within the same ecosystem.
+key_findings:	The key findings in the paper include significant ecological shifts in diatom and chironomid assemblages in Erhai Lake around 2001, primarily attributed to increased eutrophication rather than climate change. Diatom diversity decreased while chironomid diversity increased, indicating differing responses to human impacts. There was a notable decline in biotic heterogeneity across trophic levels, with a rise in widespread species and a loss of specialist species. Network skewness, reflecting biotic heterogeneity, decreased in both assemblages prior to the tipping point, suggesting it could serve as an early warning signal for ecosystem changes. The study also highlights the impact of human activities on biodiversity, the intensification of hypolimnetic anoxia, and the need for multi-proxy approaches to understand ecological dynamics in lake ecosystems.
+population:	The studied population's characteristics include the richness, which refers to the number of species in each sample. Additionally, the analysis involved diatom and chironomid assemblages, indicating a focus on these specific groups of organisms. The study also examined changes in assemblages over the past 100+ years, but specific details regarding the age of individual species or the total number of species were not provided.
+relations:	The key findings of the paper highlight the intricate relationships between diatom and chironomid assemblages as indicators of environmental change in Erhai Lake. Eutrophication, driven by nutrient enrichment, has led to significant shifts in these communities, with diatom diversity decreasing and chironomid diversity increasing. This contrasting response reflects how different groups react to changes in nutrient availability and water quality.
+
+Both assemblages exhibited a decline in network skewness, indicating a loss of biotic heterogeneity and ecological stability across trophic levels. The increase in nutrient-tolerant chironomid species and the dominance of planktonic diatom species associated with higher nutrient conditions underscore the impact of human activities on species composition.
+
+Furthermore, the study emphasizes the importance of these indicators in revealing patterns of biodiversity loss and community homogenization, suggesting that changes in diatom assemblages are closely linked to nutrient levels, while chironomid communities provide insights into historical climatic conditions. Overall, the findings illustrate the interconnectedness of these ecological indicators in assessing the health and resilience of aquatic ecosystems in response to anthropogenic disturbances.
+ODH_keys:	The keys addressed in this paper are **One Health** and **digital health**.
+ODH_perspectives:	The perspectives addressed in this paper are **individual health and well-being**, **population and society**, and **ecosystem**.
+ODH_dimensions:	The dimensions addressed in this paper are **environment** and **human and veterinary health care**.
+

@@ -1,0 +1,71 @@
+## OneAquaHealth: Consolidated Analysis of Scientific Papers
+
+This document summarizes key findings from the OneAquaHealth project, based on the analysis of scientific papers. 
+
+### 1. Patterns, Correlations, and Recurring Themes
+
+**Urbanization and Ecosystem Degradation:** Urbanization consistently impacts aquatic ecosystems negatively, leading to pollution (PMIDs: 35283080, 35099004, 34955197), altered species composition (PMIDs: 35099004, 34955197), and reduced resource efficiency (PMID: 34955197). 
+
+**Water Quality as a Health Indicator:** Water quality serves as a crucial indicator of ecosystem health and human well-being. Poor water quality correlates with increased risks of disease vectors (PMIDs: 25889666, 35099004) and other health concerns. 
+
+**Biodiversity and Ecosystem Health:** Biodiversity metrics, such as species richness and functional diversity, are key indicators of ecosystem health (PMIDs: 37586536, 34955197). Biodiversity loss is linked to urbanization and pollution, leading to ecosystem disservices affecting human health.
+
+**Importance of Monitoring:** Continuous monitoring of aquatic ecosystems is essential for detecting early warning signs of degradation and informing management strategies (PMIDs: 37586536, 35099004, 37558875).
+
+**Human Health Linkages:** Environmental degradation and poor water quality directly impact human health (PMIDs: 35283080, 37586536, 25889666). An integrated approach to ecosystem management is crucial, considering human health considerations.
+
+### 2. Indicators Supporting Disease Vector Detection and Environmental Health
+
+**Ecological Indicators:**
+* **Bacterial Composition:** Changes in fish skin microbiota reflect ecosystem health (PMID: 35099004).
+* **Presence of Mosquito Species:** Species diversity and abundance indicate public health risks from mosquito-borne diseases (PMID: 25889666).
+
+**Water Quality Indicators:**
+* **Concentration of Pollutants:** Levels of PFAAs and heavy metals serve as health proxies (PMIDs: 35283080, 29800822).
+* **Nutrient Levels:** Total nitrogen and phosphorus levels influence phytoplankton dynamics, impacting ecosystem health (PMID: 34955197).
+
+**Biodiversity Metrics:**
+* **Species Richness and Functional Diversity:** These indicators reflect ecological resilience and potential health implications of biodiversity loss (PMID: 37586536).
+
+**Environmental Stressors:**
+* **Eutrophication Levels:** Indicate ecosystem health and the potential emergence of pathogens (PMID: 35099004).
+
+### 3. Early Warning Indicators for Ecosystem Degradation
+
+**Biodiversity Metrics:**
+* **Species Richness and Evenness:** Decreases in these metrics signal ecological stress and potential degradation (PMIDs: 37586536, 34955197).
+
+**Microbial Community Changes:**
+* **Alterations in Skin Microbiota:** Changes in fish skin microbiota due to eutrophication serve as an early warning (PMID: 35099004).
+
+**Water Quality Indicators:**
+* **Increased Levels of Pollutants:** Rising concentrations of PFAAs or heavy metals indicate ecosystem degradation (PMIDs: 35283080, 29800822).
+
+**Resource Use Efficiency:**
+* **Decline in Phytoplankton Resource Use Efficiency:** Indicates ecosystem inefficiency in utilizing resources, suggesting potential degradation (PMID: 34955197).
+
+**Fish Health Metrics:**
+* **Ectoparasite Loads:** Increased ectoparasite presence on fish reflects declining health and environmental stress (PMID: 35099004).
+
+### 4. Potential Hypotheses
+
+1. **Urbanization and Ecosystem Health:** Higher urbanization leads to increased eutrophication, resulting in significant microbial community shifts and declining fish health (PMIDs: 35099004, 34955197).
+
+2. **PFAAs and Human Health:** Elevated PFAAs in freshwater systems are linked to increased human health risks, especially in urban areas (PMID: 35283080).
+
+3. **Phytoplankton Diversity and Degradation:** Reductions in phytoplankton diversity and resource use efficiency are linked to rising nutrient levels and urban runoff, suggesting these indicators can predict ecosystem degradation (PMID: 34955197).
+
+4. **Mosquitoes and Disease Risks:** The presence of specific mosquito species in wetlands correlates with public health risks from vector-borne diseases, requiring proactive management (PMID: 25889666).
+
+5. **Biodiversity Plateau and Adaptive Management:** Despite initial recovery efforts, environmental pressures, such as pollution and climate change, have led to a plateau in community recovery, suggesting the need for adaptive management practices (PMID: 37586536). 
+
+
+Here's the sorted PMID list:
+
+1. 25889666
+2. 29800822
+3. 34955197
+4. 35099004
+5. 35283080
+6. 37558875
+7. 37586536 

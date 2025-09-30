@@ -1,0 +1,215 @@
+*****
+1	PMID 38370816
+*****
+LLM: OpenAI	Token count: 1126	Processing time: 70.25060677528381
+
+Domain: TBD
+ODH Score: The paper focuses on the temporal dynamics of cyanobacterial blooms in urban lakes, examining their community composition and toxin production. While the paper touches on environmental health, it doesn't directly address the broader aspects of One Digital Health, such as citizen engagement, education, or the integration of human and veterinary healthcare. 
+
+<<3>> 
+
+OAH Score: This paper directly investigates the dynamics of cyanobacterial blooms in freshwater lakes, a key aspect of urban aquatic ecosystem health. The research focuses on the impact of these blooms on public health, specifically through toxin production and species diversity changes. This aligns perfectly with OneAquaHealth's goal of understanding the interconnection of ecosystem health and human wellbeing. 
+
+The paper's findings on early warning indicators for toxin production and species shifts are highly relevant to OneAquaHealth's aim of identifying early warning indicators for urban freshwater ecosystems. 
+
+<<10>> 
+
+paper_aim:	The aim of the paper is to investigate the composition and dynamics of cyanobacterial harmful algal blooms (CyanoHABs) in urban lakes, focusing on toxin production, community succession patterns, and the ecological relationships among different cyanobacterial taxa. It seeks to understand the impacts of these blooms on public and ecological health, analyze changes in species distribution and diversity, and explore the chemical complexity of metabolites involved, including the identification of new toxins and their biological implications.
+OAH_indicators:	The paper mentions toxin concentrations as an indicator, which were determined by AUC values from mass spectrometry data. Additionally, it discusses cyanobacterial biomass as a measure of ecosystem health, indicating that toxin concentrations coincided with biomass maxima at the studied lakes. Metabolite content was also measured in relation to cyanobacterial biomass, showing an increase in metabolite content with higher biomass levels.
+geolocation:	The paper focuses on Lake of the Woods, which is located in North America.
+methodology:	The provided context does not specify the methodology or design used in the paper. It primarily lists references and citations related to mass spectrometry, metabolomics, and environmental studies. For detailed information on the methodology or design, one would need to refer directly to the content of the paper itself.
+key_findings:	The key findings in the paper include:
+
+1. Cyanobacterial biomass and toxin production were observed at all three lakes studied, with metabolite content increasing alongside biomass.
+2. Species diversity decreased over the course of cyanobacterial harmful algal blooms (CyanoHABs), as measured by alpha diversity metrics.
+3. Multiple toxin classes were annotated, including microcystins, anabaenopeptins, aeruginosins, and cyanopeptolins, with some toxins detected only in specific lakes.
+4. A correlation was found between the abundance of Microcystis and the levels of various cyanotoxins, particularly at Cunliff Lake.
+5. The study highlighted the complexity of toxin production, influenced by factors such as nutrient profiles, competition, and environmental conditions.
+6. The research suggests that reducing overall cyanobacterial biomass may be more effective in decreasing toxin levels than targeting specific harmful groups.
+7. Future work is proposed to explore the interactions between different cyanobacterial species and their metabolites, as well as to identify and evaluate new toxins.
+8. The impact of freshwater cyanobacterial toxins on public health was discussed, particularly regarding liver damage from Microcystis aeruginosa toxins and potential links to neurodegenerative diseases.
+9. The study emphasizes the need for monitoring and managing cyanobacterial toxins to mitigate public health risks and highlights the importance of understanding environmental drivers of harmful algal blooms in the context of climate change.
+population:	The studied population characteristics are not explicitly detailed in the provided information. However, it mentions the presence of cyanobacterial species such as Microcystis sp. and Aphanizomenon sp., as well as the genus Woronichinia, which showed abundance during the bloom period. The focus appears to be on the ecological roles and toxin production of these cyanobacterial species rather than specific demographic characteristics like number or age.
+relations:	The key findings of the paper highlight a significant relationship between cyanobacterial community composition, species diversity, and toxin production during bloom events. As cyanobacterial biomass increases, particularly with taxa like Microcystis and Aphanizomenon, toxin concentrations also rise, indicating that toxin production correlates with biomass peaks rather than being constant. The study reveals a decrease in species diversity over time, with a shift from diverse filamentous species to dominance by specific taxa, which impacts toxin levels. Environmental factors such as temperature and nutrient availability play a crucial role in these dynamics, influencing both community composition and the prevalence of toxins like microcystins and cyanopeptides. The findings emphasize the interconnectedness of environmental conditions, cyanobacterial dynamics, and public health risks, suggesting that managing overall cyanobacterial biomass may be more effective in reducing toxin production than targeting specific harmful species. Effective monitoring and management strategies are essential to mitigate the health risks associated with harmful algal blooms.
+ODH_keys:	The keys addressed in this paper are **One Health** and **digital health**.
+ODH_perspectives:	The perspectives addressed in this paper are **individual health and well-being**, **population and society**, and **ecosystem**.
+ODH_dimensions:	The dimensions addressed in this paper are **citizens' engagement**, **education**, **environment**, **human and veterinary health care**, and **Healthcare Industry 4.0**.
+
+*****
+2	PMID 38181685
+*****
+LLM: OpenAI	Token count: 1263	Processing time: 102.23031163215637
+
+Domain: TBD
+ODH Score: The paper focuses on freshwater biodiversity and how human behavior impacts it. While it mentions the importance of community engagement and environmental stewardship, it doesn't directly address the broader digital health ecosystem or the interconnectedness of human, animal, and environmental health as envisioned by One Digital Health. 
+
+<<3>> 
+
+OAH Score: This paper directly addresses the challenges of urbanisation on freshwater ecosystems and the need for intervention to protect and restore biodiversity. It focuses on citizen reporting of pollution as a key behavior to improve urban freshwater health. This aligns with OneAquaHealth's goal of improving the sustainability and integrity of freshwater ecosystems in urban environments by identifying early warning indicators and enhancing environmental monitoring. 
+
+The paper's focus on citizen engagement and behavior change strategies is particularly relevant to OneAquaHealth's aim of investigating the interconnection of ecosystem health and human wellbeing. 
+
+<<9>> 
+
+paper_aim:	The aim of the paper is to demonstrate the benefits of applying a systematic behavior change framework to improve urban freshwater biodiversity. It evaluates and prioritizes specific behaviors that can enhance freshwater outcomes, assesses community willingness to report pollution, identifies barriers to participation in restoration efforts, and explores the determinants of voluntary reporting behavior. Additionally, it emphasizes the importance of segmentation in designing social marketing programs to promote pro-environmental behaviors and effective conservation strategies.
+OAH_indicators:	The paper mentions several indicators related to behaviors that can improve freshwater outcomes. These include:
+
+1. **Ecological Indicators**:
+   - **Biological**: Species diversity.
+   - **Physical**: Water quality.
+   - **Chemical**: Pollutant levels.
+
+2. **Human Health Indicators**:
+   - While specific human health indicators are not detailed in the provided context, the focus is on behaviors that can impact both ecological health and community well-being.
+
+The measurement of these indicators is implied through the assessment of behaviors rated by experts for their effectiveness in improving freshwater outcomes, as well as through community surveys that gauge the likelihood of adoption of these behaviors. The effectiveness of each behavior was rated on a scale from 1 to 10, and the potential impact was calculated using a Total Weighted Impact (TWI) algorithm that combined effectiveness, maximum possible penetration, current penetration, and likelihood of adoption.
+geolocation:	The paper focuses on Aotearoa New Zealand, which is located in the continent of Oceania.
+methodology:	The paper utilized a behavior change framework to analyze and recommend interventions for encouraging residents to report stormwater pollution. It involved gathering data from primary sources and incorporating expert knowledge into a behavior prioritization matrix (BPM) analysis. The methodology focused on understanding the motivations and barriers faced by different segments of residents regarding pollution reporting.
+key_findings:	The key findings in the paper include:
+
+1. Identification of 29 behaviors that urban residents can adopt to reduce stormwater pollution and improve freshwater biodiversity, with a focus on the most promising behaviors based on effectiveness and likelihood of adoption.
+
+2. A significant portion of urban residents expressed a willingness to report pollution, while financial contributions to reduce pollution were notably lower.
+
+3. Various barriers to reporting pollution were identified, including lack of awareness, convenience, motivation, and social norms.
+
+4. Five audience segments were defined based on behaviors and attitudes towards reporting pollution: Supportive, Unaware but Receptive, Motivated but Lack Support, Reluctant, and Not My Problem, each requiring tailored interventions.
+
+5. The importance of understanding individual motivations and barriers to enhance community participation in environmental initiatives was emphasized.
+
+6. Recommendations for targeted interventions include making reporting easy and accessible, promoting community norms, providing feedback to reporters, and framing messages around personal and community values.
+
+7. The study utilized frameworks to systematically identify drivers and barriers, suggesting a structured approach to developing effective behavior change strategies.
+
+8. The findings highlight the need for a coordinated approach to address the human element in urban freshwater management, advocating for comprehensive strategies to encourage pro-environmental actions.
+population:	The studied population consists of 1901 survey respondents with an average age of 47.2 years, ranging from 18 to 90 years. The gender distribution includes 1098 females (58%), 794 males (42%), and nine individuals identifying as non-binary. In terms of education, 29% completed secondary education, 21% had a trade or technical qualification, 36% completed an undergraduate degree, 7% had a higher degree, and 7% had no qualifications or were unsure. Most respondents (83%) reported never having reported pollution in stormwater drains and waterways.
+relations:	The key findings of the paper reveal a complex interplay between various indicators influencing urban residents' behaviors related to freshwater biodiversity and pollution reporting. Awareness and motivation are critical determinants; individuals who are more aware of pollution issues and motivated to act are more likely to engage in reporting behaviors. Community dynamics, including social norms and support, significantly influence individual participation, with communities that encourage reporting seeing higher engagement levels.
+
+Perceived responsibility also plays a vital role, as individuals who feel a sense of duty towards environmental stewardship are more inclined to report pollution. Convenience and accessibility of reporting tools are essential; simplifying the reporting process can enhance participation. Additionally, providing feedback on the outcomes of reports fosters a positive experience, encouraging future engagement.
+
+Demographic factors such as age, education, and gender further influence willingness to participate, highlighting the need for tailored interventions that address specific barriers faced by different audience segments. The segmentation into groups like 'Supportive', 'Unaware but receptive', 'Motivated but lack support', 'Reluctant', and 'Not my problem' allows for targeted strategies that resonate with each segment's unique motivations and challenges.
+
+Overall, the findings emphasize that a coordinated approach addressing awareness, community support, perceived responsibility, convenience, and demographic influences is essential for promoting sustainable behaviors and enhancing freshwater conservation efforts.
+ODH_keys:	The keys addressed in this paper are **One Health** and **digital health**.
+ODH_perspectives:	The perspectives addressed in this paper are **individual health and well-being**, **population and society**, and **ecosystem**.
+ODH_dimensions:	The dimensions addressed in this paper are **environment** and **human and veterinary health care**.
+
+*****
+3	PMID 37899012
+*****
+LLM: OpenAI	Token count: 1051	Processing time: 118.41298937797546
+
+Domain: TBD
+ODH Score: The paper focuses on the impact of artificial light on freshwater ecosystems. While it mentions the importance of considering broader environmental factors, it doesn't directly address the digital transformation of healthcare systems or the integration of human, animal, and environmental health. Therefore, the paper's relevance to One Digital Health is limited. 
+
+<<2>> 
+
+OAH Score: This paper focuses on the impact of light pollution on freshwater ecosystems, particularly the ecological consequences and potential remedies. OneAquaHealth aims to improve the sustainability and integrity of freshwater ecosystems in urban environments.  The paper's insights into the negative effects of light pollution on freshwater ecosystems are directly relevant to OneAquaHealth's goals of enhancing environmental monitoring and understanding the interconnection of ecosystem health and human well-being. 
+
+<<9>> 
+
+paper_aim:	The aim of the paper is to explore the ecological consequences of artificial light at night (ALAN) on various organisms and ecosystems, particularly focusing on its effects on aquatic environments, biological processes, behaviors, and interactions among species. It also discusses the need for effective lighting solutions to mitigate light pollution's adverse impacts on biodiversity and ecosystems.
+OAH_indicators:	The paper discusses the ecological impacts of light pollution on freshwater ecosystems, highlighting various indicators related to biodiversity and ecosystem functioning. Specific ecological indicators mentioned include species diversity and behavioral responses of aquatic species to artificial light at night (ALAN). These indicators are measured through experiments that observe changes in species behavior, such as diel vertical migration of zooplankton and melatonin production in fish, in response to varying light levels. The paper emphasizes the need for understanding these biological responses to assess the ecological health of freshwater systems affected by light pollution.
+geolocation:	The geographical location the paper focuses on is not specified in the provided information.
+methodology:	The paper does not specify a particular methodology or design, as it presents no original data. It focuses on conceptualization, funding acquisition, visualization, and writing, with contributions from multiple authors in these areas.
+key_findings:	The key findings in the paper highlight the significant ecological impacts of artificial light at night (ALAN) on freshwater ecosystems and their inhabitants. Key points include:
+
+1. There has been a notable increase in night-time sky brightness, primarily due to the rise of LED lighting, with growth rates approaching 10% per year.
+2. Freshwater ecosystems, which are rich in biodiversity, are particularly susceptible to light pollution, affecting species behavior, physiology, and community dynamics.
+3. Even low levels of light can disrupt behaviors such as diel vertical migration in zooplankton and melatonin production in fish, potentially altering species distribution and community composition.
+4. Many freshwater ecosystems remain understudied in the context of light pollution, despite their importance for biodiversity and human well-being.
+5. There is a critical need for effective mitigation strategies that consider the specific light properties and biological responses in freshwater environments.
+6. Significant gaps in knowledge exist regarding the ecological consequences of light pollution, necessitating targeted research and innovative lighting solutions to minimize ecological disruption.
+7. ALAN can create movement barriers for species, alter predator-prey dynamics, and lead to changes in community composition and ecosystem processes.
+8. The cumulative effects of light pollution can exacerbate other environmental stressors, complicating assessments of its impacts on biodiversity and ecosystem functioning.
+9. The paper emphasizes the importance of raising awareness among citizens and decision-makers about the ecological impacts of light pollution to enhance the protection of freshwater biodiversity.
+population:	The provided information does not specify the characteristics of the studied population, such as number, species, or age. It primarily discusses the effects of artificial light at night on various ecological aspects and references multiple studies related to this topic.
+relations:	The key findings of the paper illustrate a complex relationship between artificial light at night (ALAN) and various ecological indicators within freshwater ecosystems. ALAN disrupts natural behaviors and physiological processes in aquatic organisms, affecting circadian rhythms, hormone levels, and growth. This disruption can lead to altered migration patterns, such as diel vertical migration in species like zooplankton and fish, which increases their vulnerability to predation.
+
+The presence of artificial light also influences predator-prey dynamics, as predators may exploit prey attracted to light, leading to shifts in community structures and species interactions. Additionally, light pollution can affect microbial diversity and community respiration in sediments, impacting nutrient cycling and ecosystem processes.
+
+Furthermore, the interaction of ALAN with other environmental stressors, such as pollutants and noise, complicates its ecological impacts. For instance, light can alleviate some negative effects of pollutants on ecosystems while simultaneously altering the behavior and growth of key species like freshwater shredders and plants.
+
+Overall, the findings emphasize the interconnectedness of light pollution with various ecological indicators, highlighting the need for targeted mitigation strategies to protect biodiversity and maintain ecosystem health in freshwater environments.
+ODH_keys:	The keys addressed in this paper are **One Health** and **digital health**.
+ODH_perspectives:	The perspectives addressed in this paper are **individual health and well-being**, **population and society**, and **ecosystem**.
+ODH_dimensions:	The dimensions addressed in this paper are **environment** and **human and veterinary health care**.
+
+*****
+4	PMID 37778289
+*****
+LLM: OpenAI	Token count: 1111	Processing time: 104.47848010063171
+
+Domain: TBD
+ODH Score: The paper focuses on the impact of chemical pollution on human and environmental health, particularly in the context of the COVID-19 pandemic. While it touches upon the concept of "One Health" by emphasizing the interconnectedness of human, animal, and environmental health, it doesn't directly address the digital aspects of health or the integration of digital technologies in healthcare systems. Therefore, the paper's relevance to One Digital Health is limited. 
+
+<<3>> 
+
+OAH Score: The paper focuses on the impact of chemicals and pollution on human and environmental health, particularly in urban areas. It highlights the importance of understanding how human activities, including the use of chemicals, affect urban ecosystems and human health. This aligns with OneAquaHealth's goal of improving the sustainability and integrity of freshwater ecosystems in urban environments by investigating the interconnection of ecosystem health and human wellbeing. 
+
+The paper's focus on the impact of chemicals and pollution on urban ecosystems and human health directly relates to OneAquaHealth's research objectives. 
+
+<<9>> 
+
+paper_aim:	The aim of the paper is to assess the occurrence and concentration of contaminants of emerging concern (CECs) in the waterways of Greater London during the SARS-CoV-2 pandemic. It seeks to analyze changes in their concentrations over time, correlate these changes with regional prescription statistics, identify sources of CECs, and evaluate the environmental risks posed by these contaminants. Additionally, the study focuses on understanding the impact of the pandemic on urban waterway contamination and the implications for aquatic life and public health.
+OAH_indicators:	The paper discusses various indicators related to ecological and human health. For ecological indicators, examples include biological indicators such as species diversity, physical indicators like water quality, and chemical indicators that measure pollutant levels. Human health indicators mentioned include mortality rates, life expectancy, disease prevalence, and quality of life measures. The specific methods of measurement for these indicators are not detailed in the provided context.
+geolocation:	The paper focuses on Greater London, UK, which is located in Europe.
+methodology:	The methodology/design used in the paper is not specified in the provided information.
+key_findings:	The key findings in the paper include the detection of 98 contaminants of emerging concern (CECs) in Greater London's rivers over a three-year period, with 66 of these being quantifiable. Significant changes in CEC concentrations were observed during the SARS-CoV-2 pandemic, particularly a decrease during the 2020 lockdown followed by a rise in 2021. Notable trends included variations in pharmaceutical concentrations, with some compounds like salicylic acid and carbamazepine being prevalent. Wastewater treatment plants and combined sewer overflows were identified as primary sources of contamination. Risk assessments indicated that several compounds posed medium to high risks to aquatic life. The study also highlighted the impact of public health changes and chemical usage during the pandemic on CEC levels, establishing a foundational dataset for future assessments of urban river ecosystems.
+population:	The studied population consists of approximately 16% of the population of England, specifically focusing on Greater London. The dataset represents a diverse range of individuals, but specific details regarding species, age, or other demographic characteristics are not provided in the information available.
+relations:	The key findings of the paper illustrate a complex relationship between various indicators of chemical contaminants in water systems, particularly focusing on pharmaceuticals and other contaminants of emerging concern (CECs). 
+
+1. **Urban Wastewater Management**: The presence and concentrations of CECs are closely linked to wastewater treatment practices. Sites downstream of wastewater treatment plants (WWTPs) and combined sewer overflows (CSOs) exhibited higher levels of contamination, indicating that these facilities are significant sources of pollutants.
+
+2. **Pharmaceutical Usage**: Changes in pharmaceutical concentrations in waterways correlate with NHS prescription statistics, reflecting how public health interventions and human behavior during events like the COVID-19 pandemic influence environmental contamination. For instance, during lockdowns, there was a notable decrease in certain pharmaceuticals due to reduced human activity, but levels rebounded in subsequent years.
+
+3. **Temporal Variability**: The study highlights the temporal changes in contaminant levels, showing that while some substances decreased during lockdowns, they returned to higher levels as restrictions eased. This rebound effect underscores the influence of population dynamics on water quality.
+
+4. **Chemical Signatures**: Different chemical signatures were identified, distinguishing between treated and untreated wastewater. This differentiation helps in understanding the varying degrees of contamination and the effectiveness of treatment processes.
+
+5. **Ecological Risks**: Risk assessments revealed that certain compounds pose medium to high risks to aquatic life, emphasizing the need for ongoing monitoring and management strategies to mitigate these risks.
+
+6. **Interconnectedness of Health and Environment**: The findings underscore the interconnectedness of human health, pharmaceutical consumption, and environmental health, highlighting the necessity for comprehensive monitoring and regulatory frameworks to address the challenges posed by chemical pollution in urban waterways. 
+
+Overall, the study emphasizes the intricate interplay between urbanization, wastewater management, pharmaceutical usage, and environmental contamination, necessitating a holistic approach to address these issues effectively.
+ODH_keys:	The keys addressed in this paper are **One Health** and **digital health**.
+ODH_perspectives:	The perspectives addressed in this paper are **individual health and well-being**, **population and society**, and **ecosystem**.
+ODH_dimensions:	The dimensions addressed in this paper are **environment** and **human and veterinary health care**.
+
+*****
+5	PMID 37558875
+*****
+LLM: OpenAI	Token count: 1131	Processing time: 100.7977979183197
+
+Domain: TBD
+ODH Score: The paper focuses on a meta-analysis of freshwater macroinvertebrate communities, examining biodiversity trends over time and across Europe. While the paper touches on environmental aspects, it doesn't directly address the digital transformation of health ecosystems, citizen engagement, or the broader One Health framework. 
+
+Therefore, the paper's relevance to One Digital Health is limited. 
+
+<<2>> 
+
+OAH Score: The paper focuses on the long-term trends of freshwater invertebrate communities in Europe, analyzing the impact of climate change, dam construction, and urbanization on biodiversity. This aligns with OneAquaHealth's goal of improving the sustainability and integrity of freshwater ecosystems in urban environments. The paper's analysis of the influence of urbanization on freshwater invertebrate communities, particularly the impact of upstream urban areas and cropland on biodiversity, directly relates to OneAquaHealth's research. 
+
+<<9>> 
+
+paper_aim:	The aim of the paper is to analyze trends in abundance, taxonomic diversity, and functional diversity of freshwater invertebrate communities in European rivers over the past five decades, identify the environmental factors driving these changes, document recovery trends, address challenges of biodiversity loss, and promote effective management and conservation strategies for freshwater ecosystems. It also seeks to understand the dynamics of these communities over time, focusing on the impacts of anthropogenic factors and climate change, while employing statistical models to evaluate biodiversity metrics and their drivers.
+OAH_indicators:	The indicators mentioned in the paper include Shannon’s diversity, rarefied taxon richness, functional divergence, and Rao’s quadratic entropy (Q). These biodiversity metrics were measured across 1,816 biologically independent sites, with the effects of environmental drivers such as annual maximum temperature, annual precipitation, dam impacts, and land use considered in the analysis.
+geolocation:	The paper focuses on Europe.
+methodology:	The methodology/design used in the paper includes statistical analyses with specific requirements for reporting, such as sample size, measurement details, statistical tests, covariates, assumptions, and effect sizes. Data collection did not involve any software, while data analysis was conducted using annotated R (version 4.2.2). Additionally, all scripts related to the analysis are available on GitHub. The paper also includes a data availability statement detailing the accessibility of metadata, site characteristics, trend estimates, and raw biodiversity data.
+key_findings:	The paper presents several key findings regarding freshwater biodiversity trends in Europe. It reports an overall increase in taxon richness, functional richness, and abundance of freshwater invertebrate communities from 1968 to 2020, although these increases plateaued after the 2010s. Communities located downstream of dams, urban areas, and cropland showed less recovery, and areas experiencing faster warming had fewer gains in biodiversity. While there were positive trends in overall biodiversity, declines were noted at many sites, with taxon richness declining at 30% of sites and abundance at 39%.
+
+Functional diversity increased over the study period, but both functional evenness and taxonomic evenness declined. The presence of non-native species increased sharply at sites where they were detected. The findings suggest that past mitigation measures improved water quality and biodiversity, but recovery has slowed due to ongoing pressures such as climate change, land-use intensification, and emerging pollutants.
+
+The paper emphasizes the need for targeted management actions to protect biodiversity, particularly in areas at risk from urbanization, agriculture, and dam construction. It advocates for substantial changes in land management practices, investments in sewage and wastewater treatment, and a catchment-scale approach to enhance conservation efforts. Standardized, long-term biodiversity monitoring is highlighted as essential for tracking changes and identifying high-risk sites. Overall, the findings underscore the importance of addressing environmental stressors to promote biodiversity recovery in freshwater ecosystems.
+population:	The studied population's characteristics do not apply to this study.
+relations:	The key findings of the paper reveal a complex interplay between various indicators of freshwater biodiversity, particularly taxonomic richness, functional richness, and abundance of invertebrate communities. Over the study period, taxon richness and abundance showed overall increases, but these trends plateaued after the 2010s, indicating a halt in recovery. While taxon richness increased at some sites, a significant proportion experienced declines, highlighting a disparity in trends across different locations.
+
+Functional richness also exhibited positive trends until around 2012, after which it stabilized, suggesting that improvements in ecosystem functioning may have reached a limit. Despite increases in functional diversity, both functional evenness and taxonomic evenness declined, indicating an imbalance in the distribution of functional traits.
+
+Environmental factors, such as climate change and human activities like urbanization and agriculture, significantly influenced these biodiversity metrics. Warmer temperatures were associated with increased taxon richness, while urban areas and cropland negatively impacted both taxonomic and functional richness. The presence of non-native species further complicated these dynamics, as their richness and abundance increased, potentially affecting native species metrics.
+
+Overall, the findings emphasize the interconnectedness of taxonomic and functional diversity, illustrating how changes in community composition and environmental conditions can influence the ecological roles of freshwater invertebrate communities. The study underscores the need for integrated management strategies to address the multiple stressors affecting biodiversity and to support recovery efforts in freshwater ecosystems.
+ODH_keys:	The keys addressed in this paper are **One Health** and **digital health**.
+ODH_perspectives:	The perspectives addressed in this paper are **individual health and well-being**, **population and society**, and **ecosystem**.
+ODH_dimensions:	The dimensions addressed in this paper are **environment** and **human health care**.
+
